@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.271cdcab.chunk.css",
+    "main.js": "/static/js/main.58d26adf.chunk.js",
+    "main.js.map": "/static/js/main.58d26adf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df2a3e2d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df2a3e2d.js.map",
+    "static/js/2.16ccddd8.chunk.js": "/static/js/2.16ccddd8.chunk.js",
+    "static/js/2.16ccddd8.chunk.js.map": "/static/js/2.16ccddd8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.47071b0b272cb2f6f93b22ea7dbbccfd.js": "/precache-manifest.47071b0b272cb2f6f93b22ea7dbbccfd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.271cdcab.chunk.css.map": "/static/css/main.271cdcab.chunk.css.map",
+    "static/js/2.16ccddd8.chunk.js.LICENSE.txt": "/static/js/2.16ccddd8.chunk.js.LICENSE.txt",
+    "static/media/aliexpress.jpg": "/static/media/aliexpress.4ad50f58.jpg",
+    "static/media/bamburgh.scss": "/static/media/bg5.fb0b287f.jpg",
+    "static/media/headline.svg": "/static/media/headline.ecb675d8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df2a3e2d.js",
+    "static/js/2.16ccddd8.chunk.js",
+    "static/css/main.271cdcab.chunk.css",
+    "static/js/main.58d26adf.chunk.js"
+  ]
+}
