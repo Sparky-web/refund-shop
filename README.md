@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## refun-shop
+## refund-shop
 
 This is e-commerce website built with React JS
 
