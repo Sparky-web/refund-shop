@@ -1,0 +1,29 @@
+// Core
+
+@import "src/bamburgh/vendor/bootstrap/scss/functions";
+@import "src/bamburgh/scss/variables/functions";
+
+@import "src/bamburgh/vendor/bootstrap/scss/variables";
+@import "src/bamburgh/scss/variables/variables";
+
+@import "src/bamburgh/vendor/bootstrap/scss/mixins";
+@import "src/bamburgh/scss/variables/mixins";
+
+// Bootstrap base
+
+@import "src/bamburgh/vendor/bootstrap/bootstrap-base";
+
+// Components
+
+@import "src/bamburgh/scss/components";
+
+// Presentation blocks
+
+@import "src/bamburgh/scss/presentation-blocks";
+
+// Vendors
+
+@import "src/bamburgh/vendor/perfect-scrollbar/scss/perfect-scrollbar";
+
+@import "src/bamburgh/vendor/sweet-alerts/sweet-alerts";
+
